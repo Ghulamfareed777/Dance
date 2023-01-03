@@ -1,0 +1,143 @@
+* {
+    padding: 0;
+    margin: 0;
+    color: white;
+
+}
+
+/* header */
+
+.nav-link{
+    color: white !important;
+}
+
+/* .nav-item{
+    padding-right: 20px;
+} */
+
+.search{
+    padding-left: 450px;
+}
+
+/* hero */
+.hero{
+    background-image: url(/assects/images/first-dance-boy.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-top: 167px;
+    padding-right: 740px;
+    padding-bottom: 250px;
+    padding-left: 150px;
+}
+
+.register-now{
+    background-color: #e8631c;
+    border-color: #e8631c;
+    width: 200px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+
+
+/* second-section */
+
+.second-section{
+    background-color:#e8631c;
+    text-align: center;
+    padding-top: 105px;
+    
+}
+
+.card{
+    margin: 20px;
+}
+
+.boys-3-color{
+    background-color: #303030;
+    padding: 18px;
+}
+
+
+
+
+
+
+
+/* section-3rd */
+
+.section-3rd{
+    background-color: #303030;
+    padding-top: 100px;
+    padding-bottom: 90px;
+}
+
+
+.dollorr{
+    border: 2px solid;
+    border-color: #e8631c;
+    background-color: #e8631c;
+    border-radius: 5px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    
+    
+}
+
+.Dollor{
+    background-color: #303030;
+    width: 200px ;
+    border-radius: 3px;
+}
+    
+.dance{
+    padding-bottom: 40px;
+} 
+
+
+
+
+
+
+
+.visibility {
+    color: black !important;
+}
+
+.section7-bg {
+    background-color: #e8631c;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+    
+}
+
+.section7-headding {
+    font-size: 75px;
+
+}
+
+.setion7-content {
+    font-size: 29.72px;
+}
+
+.search-setup {
+    display: flex;
+    justify-content: center;
+}
+
+.dark {
+    background-color: #282828;
+}
+
+.color {
+    color: white;
+}
+
+.section7-bg::before {
+    content: url(assects/section7-left-dotted.png);
+    top: -357px;
+    position: absolute;
+    left: -84px;
+}
